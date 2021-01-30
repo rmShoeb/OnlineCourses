@@ -18,4 +18,4 @@ Assignment 3 and 4 got me disgusted. The questions are hard to interpret. Spent 
 
 I would understand if the questions were hard. But no, the questions are not hard, these are absolute PAIN!
 
-So, unless you have a lot of patience (unlike me), you can try this course. I did finish this course.
+So, unless you have a lot of patience (unlike me), you can try this course. I did not finish this course.
