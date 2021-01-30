@@ -1,8 +1,11 @@
 # Introduction to Data Science in Python
 ____
+**Language**
+<img src="c.svg" alt="" width="25px">
 
-**I Confess**
-----
-In *assignment 3*, it took me more than 5 hours to solve the first 10 questions. I lost patience and skipped Questions 11 and 12. But I scored 77 and still needed to 3 more score. So I just copied a solution for the Question 13 from the web.
+**Tools**
+<img src="https://simpleicons.org/icons/numpy.svg" alt="" width="25px">
 
-Please spare me!
+Assignment 3 and 4 got me disgusted. The questions are hard to interpret. Spent more than half the time just to figure out what the heck they want me to find! Had to search through the forum everytime to find out the meaning of the questions. Even one *Teaching Staff* admitted that the questions are not explanatory enough.
+
+I would understand if the questions were hard. But no, the questions are not hard, these are absolute PAIN!
