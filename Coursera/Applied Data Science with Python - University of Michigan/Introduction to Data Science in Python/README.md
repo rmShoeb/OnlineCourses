@@ -4,9 +4,13 @@ ____
 ----
 <img src="https://simpleicons.org/icons/python.svg" alt="" width="25px">
 
-**Tools**
+**Libraries**
 ----
 <img src="https://simpleicons.org/icons/numpy.svg" alt="" width="25px">&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/pandas.svg" alt="" width="25px">
+
+**Tools**
+----
+<img src=https://simpleicons.org/icons/jupyter.svg" alt="" width="25px">
 
 **My opinion**
 ----
