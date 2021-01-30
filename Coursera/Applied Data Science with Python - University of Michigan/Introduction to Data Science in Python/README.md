@@ -10,7 +10,7 @@ ____
 
 **Tools**
 ----
-<img src=https://simpleicons.org/icons/jupyter.svg" alt="" width="25px">
+<img src="https://simpleicons.org/icons/jupyter.svg" alt="" width="25px">
 
 **My opinion**
 ----
