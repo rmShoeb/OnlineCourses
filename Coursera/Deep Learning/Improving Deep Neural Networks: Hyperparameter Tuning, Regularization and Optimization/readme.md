@@ -4,6 +4,6 @@ ___
 ---
 Python
 
-**Libraries**
+**Modules**
 ---
 Numpy
